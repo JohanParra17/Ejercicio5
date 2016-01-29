@@ -29,6 +29,9 @@ public class Holamundo {
         System.out.println("-------------------------"); 
         imp = a/b;
         System.out.println("El resultado es: "+imp);
+        System.out.println("-------------------------"); 
+        imp = a*b;
+        System.out.println("El resultado es: "+imp);
       
     }
     
