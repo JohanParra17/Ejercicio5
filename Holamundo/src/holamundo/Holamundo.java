@@ -23,6 +23,10 @@ public class Holamundo {
         int b=10;
         imp=a+b;
         System.out.println("El resultado es: "+imp);
+        System.out.println("-------------------------"); 
+        imp = a-b;
+        System.out.println("El resultado es: "+imp);
+      
     }
     
 }
